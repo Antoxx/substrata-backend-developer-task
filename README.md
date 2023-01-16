@@ -1,6 +1,6 @@
 # Substrata Backend Developer Task
 
-To run the app use `npm run watch`.
+To run the app use `npm start`.
 
 Check logs in `/logs` folder.
 
